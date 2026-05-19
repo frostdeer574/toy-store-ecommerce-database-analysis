@@ -1,4 +1,4 @@
-# toy_store_ecommerce_database_analysis
+# toy-store-ecommerce-database-analysis
 This project is dedicated to analyzing an e-commerce database of a toy store, which includes tables with order, product, website session, and pageview info.
 The dataset used for this project is publicly available at [Maven Analytics](https://mavenanalytics.io/data-playground/toy-store-e-commerce-database).
 
